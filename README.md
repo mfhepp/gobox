@@ -1,7 +1,7 @@
 
 
 
-![Mountain Topper SOTA GoBox](https://raw.githubusercontent.com/mfhepp/gobox/blob/master/images/hero.png)
+![Mountain Topper SOTA GoBox](https://raw.githubusercontent.com/mfhepp/gobox/master/images/hero.png)
 
 # Mountain Topper SOTA GoBox
 This project contains the necessary files and assembly instructions for turning the Mountain Topper MTR-5B QRP transceiver into a all-in-one unit for quick deployment and operation in the outdoors, namely for SOTA activations.
